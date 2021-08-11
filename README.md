@@ -3,6 +3,7 @@
 ## A
 - **active immunotherapy.** A type of immunotherapy that stimulates the host's immune system or specific immune response to a disease or pathogen. It is most commonly used in cancer treatments.
 - **antibody drug conjugate (ADC).**
+- **aligned reads.**
 
 ## B
 
@@ -21,6 +22,7 @@
 - **fluorescence resonance energy transfer (FRET).**
 
 ## G
+- **genome order.** An ordering of **aligned reads** such that reads are sorted based on their alignment coordinate (the first index where the read aligns to the reference). When viewing SAM/BAM files, this refers to sorting along the third and fourth columns: reference sequence, often the chromosome name, and one-based leftmost mapping position.
 
 ## H
 - **hESC.** Human embryonic stem cells.
@@ -46,9 +48,13 @@
 - **quench-flow kinetics.**
 
 ## R
+- **Ribosome binding site (RBS)**.
 
 ## S
 - **small angle X-ray scattering (SAXS).**
+- **single nucleotide polymorphism (SNP).** See also: **single nucleotide variant**.
+- **single nucleotide variant (SNV).** See also: **single nucleotide polymorphism**.
+- **structural variation (SV).**
 
 ## T
 
@@ -59,7 +65,7 @@
 ## W
 
 ## X
-- **XRC.** X-ray crystallography.
+- **X-ray crystallography (XRC).**
 
 ## Y
 
