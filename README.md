@@ -2,10 +2,15 @@
 
 ## A
 - **active immunotherapy.** A type of immunotherapy that stimulates the host's immune system or specific immune response to a disease or pathogen. It is most commonly used in cancer treatments.
+- **antibody drug conjugate (ADC).**
 
 ## B
 
+- **bispecific T cell engager (BiTE).**
+
 ## C
+- **CD4+ T cells.**
+- **CD8+ T cells.**
 - **ChIP-seq.** Chromatin immunoprecipitation (ChIP) assays combined with sequencing. A powerful method for identifying genome-wide _DNA binding sites for transcription factors and other proteins_.
 
 ## D
@@ -13,7 +18,7 @@
 ## E
 
 ## F
-- **FRET.** Fluorescence resonance energy transfer.
+- **fluorescence resonance energy transfer (FRET).**
 
 ## G
 
@@ -43,7 +48,7 @@
 ## R
 
 ## S
-- **SAXS.** Small angle X-ray scattering.
+- **small angle X-ray scattering (SAXS).**
 
 ## T
 
