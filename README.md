@@ -17,12 +17,13 @@
 ## D
 
 ## E
+- **enrichment (genetics, genomics).** A measure of how much more likely than chance a gene or other feature appears. See [this reddit post](https://archive.is/bBZ9V) for an example.
 
 ## F
 - **fluorescence resonance energy transfer (FRET).**
 
 ## G
-- **genome order.** An ordering of **aligned reads** such that reads are sorted based on their alignment coordinate (the first index where the read aligns to the reference). When viewing SAM/BAM files, this refers to sorting along the third and fourth columns: reference sequence, often the chromosome name, and one-based leftmost mapping position.
+- **genome order.** An ordering of **aligned reads** such that reads are sorted based on their alignment coordinate (the first index where the read aligns to the reference). When viewing SAM/BAM files, this refers to sorting along the third and fourth columns: reference sequence name (often the chromosome number), and one-based leftmost mapping position.
 
 ## H
 - **hESC.** Human embryonic stem cells.
