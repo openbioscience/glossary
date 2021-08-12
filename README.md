@@ -1,5 +1,9 @@
 # Glossary
 
+## #
+- **3' untranslated region (3'-UTR).** Plays a critical role in translation termination and post-_transcriptional_ modification. It is also involved in localizing the mRNA in the cell.
+- **5' untranslated region (5'-UTR).**
+
 ## A
 - **active immunotherapy.** A type of immunotherapy that stimulates the host's immune system or specific immune response to a disease or pathogen. It is most commonly used in cancer treatments.
 - **antibody drug conjugate (ADC).**
@@ -20,6 +24,7 @@
 - **enrichment (genetics, genomics).** A measure of how much more likely than chance a gene or other feature appears. See [this reddit post](https://archive.is/bBZ9V) for an example.
 
 ## F
+- **feedstock.** The raw material that supplies or fuels a machine or industrial process.
 - **fluorescence resonance energy transfer (FRET).**
 
 ## G
@@ -34,7 +39,11 @@
 
 ## K
 
+- **Kozak consensus sequence.** (`5'-ACCAUGG-3'`)
+
 ## L
+
+- **leader sequence.** Another name for the **5' untranslated region** of mRNA.
 
 ## M
 
@@ -44,20 +53,24 @@
 
 ## P
 - **passive immunotherapy.** A type of immunotherapy in which donated or laboratory-made immune system components (often antibodies) are directly used to fight an infection or disease. Passive immunotherapy does not stimulate the host's immune system.
+- **poly-A tail.** Essential for keeping the mRNA from being degraded.
 
 ## Q
 - **quench-flow kinetics.**
 
 ## R
-- **Ribosome binding site (RBS)**.
+- **Ribosome binding site (RBS).**
 
 ## S
-- **small angle X-ray scattering (SAXS).**
+- **Shine-Dalgarno sequence.** (`5'-AGGAGGU-3'`)
 - **single nucleotide polymorphism (SNP).** See also: **single nucleotide variant**.
 - **single nucleotide variant (SNV).** See also: **single nucleotide polymorphism**.
+- **small angle X-ray scattering (SAXS).**
 - **structural variation (SV).**
 
 ## T
+
+- **trailer sequence.** Another name for the **3' untranslated region** of mRNA.
 
 ## U
 
