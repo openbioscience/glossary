@@ -17,6 +17,8 @@
 - **CD4+ T cells.**
 - **CD8+ T cells.**
 - **ChIP-seq.** Chromatin immunoprecipitation (ChIP) assays combined with sequencing. A powerful method for identifying genome-wide _DNA binding sites for transcription factors and other proteins_.
+- **coding sequence (CDS).**
+- **correlation spectroscopy (COSY).**
 
 ## D
 
@@ -42,18 +44,20 @@
 - **Kozak consensus sequence.** (`5'-ACCAUGG-3'`)
 
 ## L
-
 - **leader sequence.** Another name for the **5' untranslated region** of mRNA.
 
 ## M
+- **motifs (protein structure).** Also known as **supersecondary structures**, motifs are groupings of secondary structural elementary that occur in many unrelated globular proteins.
 
 ## N
+- **nuclear Overhauser spectroscopy (NOESY).**
 
 ## O
 
 ## P
 - **passive immunotherapy.** A type of immunotherapy in which donated or laboratory-made immune system components (often antibodies) are directly used to fight an infection or disease. Passive immunotherapy does not stimulate the host's immune system.
 - **poly-A tail.** Essential for keeping the mRNA from being degraded.
+- **pulse-chase analysis.** A method for examining a cellular process occuring over time by successively exposing the cells to a labeled compound (the "pulse") and then to the same compound in an unlabeled form (the "chase"). A classic example of a pulse-chase experiment is the **Meselson-Stahl experiment** that demonstrated the semiconservative model of DNA replication.
 
 ## Q
 - **quench-flow kinetics.**
@@ -69,7 +73,6 @@
 - **structural variation (SV).**
 
 ## T
-
 - **trailer sequence.** Another name for the **3' untranslated region** of mRNA.
 
 ## U
