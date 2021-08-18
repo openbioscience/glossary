@@ -31,6 +31,7 @@
 
 ## G
 - **genome order.** An ordering of **aligned reads** such that reads are sorted based on their alignment coordinate (the first index where the read aligns to the reference). When viewing SAM/BAM files, this refers to sorting along the third and fourth columns: reference sequence name (often the chromosome number), and one-based leftmost mapping position.
+- **glycan.** Synonym for **polysaccharide**.
 
 ## H
 - **hESC.** Human embryonic stem cells.
