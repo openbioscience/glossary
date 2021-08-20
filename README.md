@@ -17,6 +17,7 @@
 - **CD4+ T cells.**
 - **CD8+ T cells.**
 - **ChIP-seq.** Chromatin immunoprecipitation (ChIP) assays combined with sequencing. A powerful method for identifying genome-wide _DNA binding sites for transcription factors and other proteins_.
+- **CIP priority rules (Cahn-Ingold-Prelog).**
 - **coding sequence (CDS).**
 - **correlation spectroscopy (COSY).**
 
@@ -31,7 +32,8 @@
 
 ## G
 - **genome order.** An ordering of **aligned reads** such that reads are sorted based on their alignment coordinate (the first index where the read aligns to the reference). When viewing SAM/BAM files, this refers to sorting along the third and fourth columns: reference sequence name (often the chromosome number), and one-based leftmost mapping position.
-- **glycan.** Synonym for **polysaccharide**.
+- **glycan.** Synonym for **polysaccharide**. Often also used colloquially in scientific literature to refer to biologically active oligosaccharides.
+- **glycosylation.** The chemical process of adding a glycan to another molecule (often a protein).
 
 ## H
 - **hESC.** Human embryonic stem cells.
@@ -67,6 +69,7 @@
 - **Ribosome binding site (RBS).**
 
 ## S
+- **self-consistent field (SCF).**
 - **Shine-Dalgarno sequence.** (`5'-AGGAGGU-3'`)
 - **single nucleotide polymorphism (SNP).** See also: **single nucleotide variant**.
 - **single nucleotide variant (SNV).** See also: **single nucleotide polymorphism**.
