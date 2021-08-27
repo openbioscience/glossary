@@ -54,6 +54,7 @@
 
 ## N
 - **nuclear Overhauser spectroscopy (NOESY).**
+- **nuclear Overhauser effect (NOE).**
 
 ## O
 
